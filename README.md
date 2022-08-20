@@ -1,0 +1,1 @@
+Detail of this can be assessed from this [link](https://muhfaizan001.hashnode.dev/email-classifier-using-machine-learning-algorithm).
